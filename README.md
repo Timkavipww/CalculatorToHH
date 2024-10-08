@@ -15,4 +15,4 @@
 
 1. Клонируйте репозиторий на ваш компьютер:
    ```bash
-   git clone [https://github.com/ваш_пользователь/ваш_репозиторий.git](https://github.com/Timkavipww/CalculatorToHH.git)
+   git clone https://github.com/Timkavipww/CalculatorToHH.git
